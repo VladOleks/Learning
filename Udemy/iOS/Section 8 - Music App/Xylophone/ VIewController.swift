@@ -15,7 +15,7 @@ class ViewController: UIViewController{
         super.viewDidLoad()
     }
 
-
+    let m: Int = 4
 
     @IBAction func notePressed(_ sender: UIButton) {
         
